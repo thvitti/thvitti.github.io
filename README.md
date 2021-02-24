@@ -2,11 +2,11 @@
 
 ### PROJECTS
 
-* Trello Task Viewer [Code](https://github.com/thvitti/trello_tasker) | [Live Demo](https://trello-taskelx.gigalixirapp.com)
+* Trello Task Viewer [Source](https://github.com/thvitti/trello_tasker) | [Demo](https://trello-taskelx.gigalixirapp.com)
     
-* Aluraflix [Code](https://github.com/thvitti/elixir-phoenix-react-merged) | [Live Demo](https://phx-react.herokuapp.com)
+* Aluraflix [Source](https://github.com/thvitti/elixir-phoenix-react-merged) | [Demo](https://phx-react.herokuapp.com)
 
-* Events Manager [Live Demo](https://rails-eventos.herokuapp.com)
+* Events Manager [Demo](https://rails-eventos.herokuapp.com)
   
 
 
