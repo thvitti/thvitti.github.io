@@ -2,7 +2,7 @@
 
 ### PROJECTS
 
-* Trello Task Viewer - Elixir + Phoenix + Trello [Code](https://github.com/thvitti/trello_tasker)[Live Demo](https://trello-taskelx.gigalixirapp.com)
-* Youtubeflix - Elixir + Phoenix + Absinthe + GraphQL + React [Code](https://github.com/thvitti/elixir-phoenix-react-merged)[Live Demo](https://phx-react.herokuapp.com)
+* Trello Task Viewer [Code](https://github.com/thvitti/trello_tasker) | [Live Demo](https://trello-taskelx.gigalixirapp.com)
+* Youtubeflix [Code](https://github.com/thvitti/elixir-phoenix-react-merged) | [Live Demo](https://phx-react.herokuapp.com)
 
 
